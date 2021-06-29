@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nvk681
 - 👀 I’m interested in PYTHON, ALGORITHMS
 - 🌱 I’m currently learning PYTHON, DESIGN PATTERNS. DOCKER
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project that can be challanging
 - 📫 How to reach me nvk.681@gmail.com
 
 <!---
